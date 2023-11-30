@@ -1,3 +1,5 @@
 Je suis la première phrase.
 Je suis la deuxième phrase.
 Je suis la nouvelle phrase.
+Je suis la cinquième phrase.
+Je suis la sixième phrase.
